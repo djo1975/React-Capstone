@@ -31,8 +31,7 @@
 
 # 📖 Book-Store-React Project <a name="about-project"></a>
 
-**React/Redux Group Project** is a single webpage  Application that displays the rockets, dragons, missions and profile.
-
+**React Capstone Project** is a single webpage  Application that displays the countries abouth information.
 ## 🛠 Built With <a name="built-with"></a>
 
 ***For this project we used the Following tech-stack:
@@ -45,15 +44,13 @@
 
 ### Key Features <a name="key-features"></a>
 
--[x] **Rockets**
--[x] **Dragons**
--[x] **Missions**
--[x] **Profile**
+-[x] **Countries**
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
 
-## 🚀 Live Demo <a name="live-demo"></a>(https://spacex-3bz6.onrender.com/)
+## 🚀 Live Demo <a name="live-demo"></a>()
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -85,8 +82,8 @@ Clone this repository to your desired folder using the command below:
 ### Clone this repository
 
 ```bash
-$ git clone https://github.com/Bigizi/Space-Travel-Hub
-$ cd Space-Travel-Hub
+$ git clone https://github.com/djo1975/React-Capstone.git
+$ cd React-Capstone
 ```
 
 ### Install
@@ -117,23 +114,13 @@ $ npm start
 
 <!-- AUTHORS -->
 
-## 👥 Authors <a name="authors"></a>
-
-👤 **Bigizi Nduwayo Crispin**
-
-- GitHub: [@Crispin](https://github.com/Bigizi)
-- LinkedIn: [@Crispin](https://linkedin.com/)
+## 👥 Author <a name="authors"></a>
 
 👤 **Mladan Ilic**
 
 - GitHub: [@Ilic](https://github.com/djo1975)
 - Twitter: [@Ilic](https://twitter.com/MladanIlic)
-- LinkedIn: [@Ilic] (https://www.linkedin.com/in/mladan-ilic-0528a2256/)
-
-👤 **Andrea Rivas**
-
-- GitHub: [@Ilic](https://github.com/rivasbolinga)
-- LinkedIn: [@Ilic] (https://www.linkedin.com/in/andrearivaspalacios/)
+- LinkedIn: [@Ilic] (https://www.linkedin.com/in/mladanilic/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -150,7 +137,7 @@ $ npm start
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [Issues](https://github.com/Bigizi/Space-Travel-Hub/issues).
+Feel free to check the [Issues](https://github.com/djo1975/React-Capstone/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
