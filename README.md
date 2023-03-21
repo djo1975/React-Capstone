@@ -1,4 +1,4 @@
-## Space-Travel-Hub-React-Redux-project
+## React-Capstone-project
 
 <a name="readme-top"></a>
 
