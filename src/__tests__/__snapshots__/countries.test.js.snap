@@ -22,6 +22,11 @@ exports[`Navbar testing render component 1`] = `
         Africa
       </option>
       <option
+        value="Antarctica"
+      >
+        Antarctica
+      </option>
+      <option
         value="Asia"
       >
         Asia
