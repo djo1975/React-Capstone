@@ -1,0 +1,53 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Navbar testing render component 1`] = `
+<div>
+  <h1>
+    All Countries
+  </h1>
+  <div>
+    <select
+      id="continents"
+      name="continents"
+      onChange={[Function]}
+    >
+      <option
+        value="all"
+      >
+        All
+      </option>
+      <option
+        value="Africa"
+      >
+        Africa
+      </option>
+      <option
+        value="Asia"
+      >
+        Asia
+      </option>
+      <option
+        value="Europe"
+      >
+        Europe
+      </option>
+      <option
+        value="North America"
+      >
+        North America
+      </option>
+      <option
+        value="Oceania"
+      >
+        Oceania
+      </option>
+      <option
+        value="South America"
+      >
+        South America
+      </option>
+    </select>
+  </div>
+  <ul />
+</div>
+`;

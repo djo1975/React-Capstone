@@ -2,7 +2,7 @@ import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import Countries from './components/countries';
 import Details from './components/details';
 import Navbar from './components/navbar';
-import './App.css';
+import './styles/App.css';
 
 function App() {
   return (
