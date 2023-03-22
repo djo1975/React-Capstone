@@ -1,7 +1,9 @@
 import { useEffect, useState } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
+import { FiArrowRightCircle } from 'react-icons/fi';
 import { fetchCountries } from '../redux/countries/countrySlice';
 import Country from './country';
+import worldwide from '../images/pngfind.com-continents-png-2212530 (1).png';
 
 const Countries = () => {
   const dispatch = useDispatch();
@@ -17,8 +19,11 @@ const Countries = () => {
 
   return (
     <div>
-      <h1>All Countries</h1>
-      <div>
+      {' '}
+      <div className="dropdown">
+        <img src={worldwide} alt="Globe" />
+        <h1 className="title">World</h1>
+
         <select
           name="continents"
           id="continents"
@@ -34,21 +39,23 @@ const Countries = () => {
           <option value="South America">South America</option>
         </select>
       </div>
-      <ul>
+      <div className="dragisa">
         {countries.filter((country) => {
           if (continent === 'all') {
             return country;
           }
           return country.continent === continent;
         }).map((country) => (
-          <Country
-            key={country.name}
-            name={country.name}
-            continent={country.continent}
-            flagEmoji={country.flagEmoji}
-          />
+          <div className="jebaga" key={country.name}>
+            <FiArrowRightCircle />
+            <Country
+              name={country.name}
+              continent={country.continent}
+              flagEmoji={country.flagEmoji}
+            />
+          </div>
         ))}
-      </ul>
+      </div>
     </div>
   );
 };

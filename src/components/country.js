@@ -3,14 +3,14 @@ import PropTypes from 'prop-types';
 import { Link } from 'react-router-dom';
 
 const Country = ({ name, flagEmoji, continent }) => (
-  <Link to={`/country/${name}`}>
-    <li>
-      <h2>
+  <Link to={`/country/${name}`} className="country-link">
+    <li className="country-item">
+      <h2 className="country-name">
         {name}
         <br />
-        {flagEmoji}
+        <span className="flag">{flagEmoji}</span>
       </h2>
-      <p>
+      <p className="country-continent">
         {continent}
       </p>
     </li>
