@@ -1,7 +1,7 @@
 import { useParams, NavLink } from 'react-router-dom';
 import { useSelector, useDispatch } from 'react-redux';
 import { useEffect } from 'react';
-import { FiArrowLeftCircle } from 'react-icons/fi';
+import { FiArrowLeft } from 'react-icons/fi';
 import { fetchCountries } from '../redux/countries/countrySlice';
 
 const Details = () => {
@@ -20,7 +20,7 @@ const Details = () => {
   return (
     <>
       <NavLink to="/">
-        <FiArrowLeftCircle />
+        <FiArrowLeft />
       </NavLink>
       {country && (
         <div className="details-container">
