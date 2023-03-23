@@ -8,7 +8,7 @@ exports[` testing render component 1`] = `
   >
     <img
       alt="Globe"
-      src="worldwide.png"
+      src="pngfind.com-continents-png-2212530 (1).png"
     />
     <h1
       className="title"
