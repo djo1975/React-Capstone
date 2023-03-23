@@ -16,7 +16,7 @@ export const fetchCountries = createAsyncThunk('countries/fetchCountries', async
     flagAlt: country.flags.alt,
     continent: country.continents[0],
     timezones: country.timezones,
-  }));
+  })).sort((a, b) => a.name.localeCompare(b.name)); // sortiranje po imenu zemlje
 });
 
 const countrySlice = createSlice({

@@ -1,6 +1,7 @@
-import { useParams } from 'react-router-dom';
+import { useParams, NavLink } from 'react-router-dom';
 import { useSelector, useDispatch } from 'react-redux';
 import { useEffect } from 'react';
+import { FiArrowLeft } from 'react-icons/fi';
 import { fetchCountries } from '../redux/countries/countrySlice';
 
 const Details = () => {
@@ -18,13 +19,16 @@ const Details = () => {
 
   return (
     <>
+      <NavLink to="/">
+        <FiArrowLeft />
+      </NavLink>
       {country && (
-        <div>
-          <div>
+        <div className="details-container">
+          <div className="details-header">
             <img src={country.flagSvg} alt={country.flagAlt} />
             <h1>{country.name}</h1>
           </div>
-          <ul>
+          <ul className="details-list">
             <li>
               <span>Capital:</span>
               {' '}

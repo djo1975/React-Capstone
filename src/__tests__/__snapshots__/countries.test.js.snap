@@ -1,0 +1,69 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[` testing render component 1`] = `
+<div>
+   
+  <div
+    className="dropdown"
+  >
+    <img
+      alt="Globe"
+      src="pngfind.com-continents-png-2212530 (1).png"
+    />
+    <h1
+      className="title"
+    >
+      World
+    </h1>
+    <select
+      id="continents"
+      name="continents"
+      onChange={[Function]}
+    >
+      <option
+        value="all"
+      >
+        All coutries
+      </option>
+      <option
+        value="Africa"
+      >
+        Africa
+      </option>
+      <option
+        value="Antarctica"
+      >
+        Antarctica
+      </option>
+      <option
+        value="Asia"
+      >
+        Asia
+      </option>
+      <option
+        value="Europe"
+      >
+        Europe
+      </option>
+      <option
+        value="North America"
+      >
+        North America
+      </option>
+      <option
+        value="Oceania"
+      >
+        Oceania
+      </option>
+      <option
+        value="South America"
+      >
+        South America
+      </option>
+    </select>
+  </div>
+  <div
+    className="dragisa"
+  />
+</div>
+`;

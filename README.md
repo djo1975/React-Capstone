@@ -1,4 +1,4 @@
-## Space-Travel-Hub-React-Redux-project
+## React-Capstone-project
 
 <a name="readme-top"></a>
 
@@ -7,7 +7,7 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 Math-Magician-React Project ](#-math-magician-react-project-)
+- [📖 React-Capstone-project ](#-React-Capstone-project)
   - [🛠 Built With ](#-built-with-)
     - [Key Features ](#key-features-)
   - [🚀 Live Demo ](#-live-demo-)
@@ -29,10 +29,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Book-Store-React Project <a name="about-project"></a>
+# 📖 React-Capstone-project <a name="about-project"></a>
 
-**React/Redux Group Project** is a single webpage  Application that displays the rockets, dragons, missions and profile.
-
+**React Capstone Project** is a single webpage  Application that displays the countries abouth information.
 ## 🛠 Built With <a name="built-with"></a>
 
 ***For this project we used the Following tech-stack:
@@ -45,23 +44,21 @@
 
 ### Key Features <a name="key-features"></a>
 
--[x] **Rockets**
--[x] **Dragons**
--[x] **Missions**
--[x] **Profile**
+-[x] **Countries**
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
 
-## 🚀 Live Demo <a name="live-demo"></a>(https://spacex-3bz6.onrender.com/)
-
+## 🚀 Live Demo <a name="live-demo"></a>
+- See it live by clicking [Live Demo Link](https://quiet-tapioca-fe89d8.netlify.app)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- Loom Walkthrough -->
 ## LOOM PROJECT PRESENTATION <a name="loom-demo"></a>
 
-- [Loom Walkthrough Link](coming soon)
+- [Loom Walkthrough Link](https://www.loom.com/share/d2b7cd05893c4b989db34952aa307230)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -85,8 +82,8 @@ Clone this repository to your desired folder using the command below:
 ### Clone this repository
 
 ```bash
-$ git clone https://github.com/Bigizi/Space-Travel-Hub
-$ cd Space-Travel-Hub
+$ git clone https://github.com/djo1975/React-Capstone.git
+$ cd React-Capstone
 ```
 
 ### Install
@@ -117,23 +114,13 @@ $ npm start
 
 <!-- AUTHORS -->
 
-## 👥 Authors <a name="authors"></a>
-
-👤 **Bigizi Nduwayo Crispin**
-
-- GitHub: [@Crispin](https://github.com/Bigizi)
-- LinkedIn: [@Crispin](https://linkedin.com/)
+## 👥 Author <a name="authors"></a>
 
 👤 **Mladan Ilic**
 
 - GitHub: [@Ilic](https://github.com/djo1975)
 - Twitter: [@Ilic](https://twitter.com/MladanIlic)
-- LinkedIn: [@Ilic] (https://www.linkedin.com/in/mladan-ilic-0528a2256/)
-
-👤 **Andrea Rivas**
-
-- GitHub: [@Ilic](https://github.com/rivasbolinga)
-- LinkedIn: [@Ilic] (https://www.linkedin.com/in/andrearivaspalacios/)
+- LinkedIn: [@Ilic] (https://www.linkedin.com/in/mladanilic/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -150,7 +137,7 @@ $ npm start
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [Issues](https://github.com/Bigizi/Space-Travel-Hub/issues).
+Feel free to check the [Issues](https://github.com/djo1975/React-Capstone/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -166,9 +153,8 @@ If you like this project, please don't forget to follow us and give it a star.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank [Microverse](https://www.microverse.org/)
-I would like to thank our parents and supporters for their support
-I would like to thank All my coding partners
+- I would like to thank [Microverse](https://www.microverse.org/)
+- I would like to give credit to Nelson Sakwa for their design, which was used in accordance with the Creative Commons License. Thank you, Nelson Sakwa!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
