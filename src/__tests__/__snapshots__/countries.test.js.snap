@@ -23,7 +23,7 @@ exports[` testing render component 1`] = `
       <option
         value="all"
       >
-        All
+        All coutries
       </option>
       <option
         value="Africa"

@@ -153,9 +153,8 @@ If you like this project, please don't forget to follow us and give it a star.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank [Microverse](https://www.microverse.org/)
-I would like to thank our parents and supporters for their support
-I would like to thank All my coding partners
+- I would like to thank [Microverse](https://www.microverse.org/)
+- I would like to give credit to Nelson Sakwa for their design, which was used in accordance with the Creative Commons License. Thank you, Nelson Sakwa!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

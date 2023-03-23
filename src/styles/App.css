@@ -1,8 +1,12 @@
+html, body {
+  height: 100%;
+  margin: 0;
+}
 #root {
-  margin: -8px;
-  margin-top: -13px;
+  margin: 0;
   background-color: #ec4c8a;
   font-family: 'Gill Sans', sans-serif;
+  min-height: 100%;
 }
 
 p,
@@ -37,6 +41,14 @@ h1 {
   top: 0.3rem;
   right: 0.2rem;
   color: white;
+}
+
+a svg {
+  position: absolute;
+  top: 1rem;
+  left: 0.2rem;
+  color: white;
+  padding: 1rem;
 }
 
 .country-link {
@@ -114,7 +126,6 @@ h1 {
 }
 
 .App {
-  margin-top: 12px;
   padding: 10px;
 }
 
