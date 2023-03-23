@@ -1,7 +1,9 @@
-html, body {
+html,
+body {
   height: 100%;
   margin: 0;
 }
+
 #root {
   margin: 0;
   background-color: #ec4c8a;
@@ -36,19 +38,19 @@ h1 {
   position: relative;
 }
 
-.jebaga svg {
-  position: absolute;
-  top: 0.3rem;
-  right: 0.2rem;
-  color: white;
-}
-
 a svg {
   position: absolute;
   top: 1rem;
   left: 0.2rem;
   color: white;
   padding: 1rem;
+}
+
+.jebaga svg {
+  position: absolute;
+  top: 0.3rem;
+  right: 0.2rem;
+  color: white;
 }
 
 .country-link {
