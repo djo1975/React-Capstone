@@ -9,10 +9,10 @@ function App() {
     <div className="App">
       <BrowserRouter>
         <Routes>
-          {/* <Route path="/" element={<Navbar />}> */}
+
           <Route path="/" element={<div className="country-list"><Countries /></div>} />
           <Route path="/country/:countryId" element={<Details />} />
-          {/* </Route> */}
+
         </Routes>
       </BrowserRouter>
     </div>

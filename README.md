@@ -7,7 +7,7 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 Math-Magician-React Project ](#-math-magician-react-project-)
+- [📖 Math-Magician-React Project ](#-React-Capstone-project)
   - [🛠 Built With ](#-built-with-)
     - [Key Features ](#key-features-)
   - [🚀 Live Demo ](#-live-demo-)
@@ -29,7 +29,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Book-Store-React Project <a name="about-project"></a>
+# 📖 React-Capstone-project <a name="about-project"></a>
 
 **React Capstone Project** is a single webpage  Application that displays the countries abouth information.
 ## 🛠 Built With <a name="built-with"></a>
@@ -50,15 +50,15 @@
 
 <!-- LIVE DEMO -->
 
-## 🚀 Live Demo <a name="live-demo"></a>()
-
+## 🚀 Live Demo <a name="live-demo"></a>
+- See it live by clicking [Live Demo Link](https://quiet-tapioca-fe89d8.netlify.app)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- Loom Walkthrough -->
 ## LOOM PROJECT PRESENTATION <a name="loom-demo"></a>
 
-- [Loom Walkthrough Link](coming soon)
+- [Loom Walkthrough Link](https://www.loom.com/share/d2b7cd05893c4b989db34952aa307230)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

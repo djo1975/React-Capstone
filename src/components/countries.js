@@ -29,7 +29,7 @@ const Countries = () => {
           id="continents"
           onChange={(e) => setContinent(e.target.value)}
         >
-          <option value="all">All</option>
+          <option value="all">All coutries</option>
           <option value="Africa">Africa</option>
           <option value="Antarctica">Antarctica</option>
           <option value="Asia">Asia</option>
