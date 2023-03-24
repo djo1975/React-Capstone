@@ -142,7 +142,9 @@ a svg {
   border: solid 0.2rem #ec4c8a;
   box-shadow: 0 0 10px rgb(0 0 0 / 50%);
   background-color: #ec4c8a;
-  margin-left: 1rem;
+  margin-left: auto;
+  width: 100%;
+  margin-bottom: 1rem;
 }
 
 .country-item {
