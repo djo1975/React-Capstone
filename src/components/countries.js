@@ -22,8 +22,6 @@ const Countries = () => {
       {' '}
       <div className="dropdown">
         <img src={worldwide} alt="Globe" />
-        <h1 className="title">World</h1>
-
         <select
           name="continents"
           id="continents"
